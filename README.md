@@ -8,6 +8,9 @@ Acesse a documentação pelo endereço: http://127.0.0.1:8000/api_doc/ <br/>
 Para cadastrar aulas e estudantes o django admin está habilitado. <br/>
 Acesse o django admin pelo endereço: http://127.0.0.1:8000/admin/ <br/>
 
+Observação: As aulas so podem ser cadastradas através do django admin, não foi disponibilizado para acesso externo.
+
+
 # Tecnologia utilizada
 django versão 2.2.17 <br/>
 django rest framework versão 3.12.2 <br/>
